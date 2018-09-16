@@ -1,0 +1,17 @@
+{
+  "name": "mathe",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Johannes Lebek <slowjoe007@gmx.net>",
+  "description": "A simple math exercise sheet generator",
+  "license": "MIT",
+  "engines": {
+      "node": ">=8.4"
+  },
+  "scripts": {
+      "start": "node ./app.js"
+  },
+  "dependencies": {
+      "express": "^4.x.x"
+  }
+}
